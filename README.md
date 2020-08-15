@@ -1,7 +1,7 @@
 # Forecasting-Time-Series
-SARIMA forecasting exercise based on Coca-Cola earnings dataset.
+SARIMA forecasting exercise based on Coca-Cola earnings dataset. For the main script `timeSeries.R` to execute properly, it must be saved in a directory alongside the source data file `coca_cola_earnings.csv` and the additional R script `FTS_functions.R` with all the sourced-in user defined functions. This supporting R script may be opened for function inspection but should not be edited.
 
-The exercise is divided in two parts:
+The tutorial is divided in two parts:
 
 * Find at least two linear time series models, using the Box-Jenkins methodology, for the quarterly earnings per share of Coca-Cola Company from the first quarter of 1983 to the third quarter of 2009. Identify the models using the entire available sample (`coca_cola_earnings.csv`)
 
