@@ -1,4 +1,4 @@
-# Forecasting-Time-Series
+# Forecasting time series - Box-Jenkins methodology
 
 **Tl;dr**: SARIMA forecasting exercise based on the dataset `coca_cola_earnings.csv`. For the main script `timeSeries.R` to execute properly, it must be saved in a directory alongside the source data file `coca_cola_earnings.csv` and the additional R script `FTS_functions.R` with all the sourced-in user defined functions. This supporting R script may be opened for function inspection but should not be edited.
 
